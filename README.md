@@ -1,46 +1,55 @@
-# configuracion para el desarrrollo android
- este repositorio es con la finalidad de proporcionar todas las herramientas para desarrollar aplicaciones mobiles 
+# Configuración para el Desarrollo Android
 
-1. como primer paso tenemos que descargar intellj o Android studio según los requisitos que contemos en nuestra computadora les compartiré el link a intellj 
-https://drive.google.com/file/d/1MMssbBgpsk9BkexRjTflCLJVo6GAXD66/view?usp=drivesdk
+Este repositorio tiene como finalidad proporcionar todas las herramientas necesarias para desarrollar aplicaciones móviles en Android, utilizando IntelliJ IDEA o Android Studio.
 
+---
 
+## 1. Descargar IntelliJ IDEA o Android Studio
 
-  2. Descarga el plugin
+Como primer paso, necesitamos descargar **IntelliJ IDEA** o **Android Studio**, según los requisitos de tu computadora.
 
-Los plugins para IntelliJ usualmente tienen la   extensión .zip   o .jar.
+**Descarga IntelliJ IDEA desde el siguiente enlace:**
 
-Puedes obtenerlo desde este link que estaré dejando o bien descargarlo en la tienda 
+[Descargar IntelliJ IDEA](https://drive.google.com/file/d/1MMssbBgpsk9BkexRjTflCLJVo6GAXD66/view?usp=drivesdk)
 
-https://drive.google.com/file/d/1MR8Vh-zIWZfs6OwEUkfE2qt4xbJMP2b0/view?usp=drivesdk
+---
 
+## 2. Instalar Plugin desde el Disco
 
-2. Instálalo desde el disco
+### 2.1 Descargar el Plugin
 
-1. Abre IntelliJ IDEA.
+Los plugins para IntelliJ suelen tener la extensión `.zip` o `.jar`. Puedes obtenerlos desde:
 
+- [Descargar plugin desde Google Drive](https://drive.google.com/file/d/1MR8Vh-zIWZfs6OwEUkfE2qt4xbJMP2b0/view?usp=drivesdk)
+- O también puedes buscarlos directamente en la tienda de plugins de JetBrains.
 
-2. Ve a File > Settings (o Ctrl+Alt+S) en Windows/Linux, o IntelliJ IDEA > Preferences en macOS.
+### 2.2 Instalar el Plugin
 
+Sigue estos pasos para instalar el plugin descargado:
 
-3. En el panel izquierdo, selecciona Plugins.
+1. Abre **IntelliJ IDEA**.
+2. Ve a **File > Settings** (o `Ctrl+Alt+S` en Windows/Linux) o **IntelliJ IDEA > Preferences** en macOS.
+3. En el panel izquierdo, selecciona **Plugins**.
+4. Haz clic en el ícono de engranaje (arriba a la derecha).
+5. Selecciona **Install Plugin from Disk…**.
+6. Busca y selecciona el archivo `.zip` o `.jar`.
+7. Haz clic en **OK** o **Install**.
+8. Reinicia IntelliJ cuando se te solicite.
 
+---
 
-4. Haz clic en el ícono de engranaje arriba a la derecha (al lado de la barra de búsqueda).
+## 3. Activación Extendida de la Prueba Gratuita
 
+Como paso adicional, puedes utilizar un archivo `.jar` que permite **aplazar la prueba gratuita de IntelliJ** cuantas veces desees.
 
-5. Selecciona Install Plugin from Disk…
+### Descarga
 
+[Descargar archivo JAR para aplazar la prueba](https://drive.google.com/file/d/1M78DcEzCF1DlZXdaMkA5nv7U8xVWudm2/view?usp=drivesdk)
 
-6. Busca y selecciona el archivo .zip o .jar del plugin.
+### Requisitos
 
+Necesitarás tener instalado **Java JDK** en una versión reciente. Aquí te comparto una opción:
 
-7. Haz clic en OK o Install.
+[Descargar JDK 22](https://drive.google.com/file/d/1MDUkvLDKbnu1LQswjLcs92YUCEaIBjqn/view?usp=drivesdk)
 
-como pasos adicionales o de preferencia 
- les compartiré un archivo jar el cual nos permitirá ir aplazando la prueba gratuita todo lo que queramos 
-para esto necesitaremos descargar el archivo y ejecutarlo
-https://drive.google.com/file/d/1M78DcEzCF1DlZXdaMkA5nv7U8xVWudm2/view?usp=drivesdk
-
-para poder ejecutarlo ocuparemos el jdk de java instalado en una versión reciente aquí les dejo la versión 22
-https://drive.google.com/file/d/1MDUkvLDKbnu1LQswjLcs92YUCEaIBjqn/view?usp=drivesdk
+---
