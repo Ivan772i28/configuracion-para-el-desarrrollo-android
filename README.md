@@ -11,7 +11,8 @@ https://drive.google.com/file/d/1MMssbBgpsk9BkexRjTflCLJVo6GAXD66/view?usp=drive
   Los plugins para IntelliJ usualmente tienen la   extensión .zip   o .jar.
 
 Puedes obtenerlo desde este link que estaré dejando o bien descargarlo en la tienda 
-https://drive.google.com/file/d/1MDUkvLDKbnu1LQswjLcs92YUCEaIBjqn/view?usp=drivesdk
+
+https://drive.google.com/file/d/1MR8Vh-zIWZfs6OwEUkfE2qt4xbJMP2b0/view?usp=drivesdk
 
 
 2. Instálalo desde el disco
