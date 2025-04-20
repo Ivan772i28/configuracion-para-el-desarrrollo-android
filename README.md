@@ -1,14 +1,14 @@
 # configuracion para el desarrrollo android
  este repositorio es con la finalidad de proporcionar todas las herramientas para desarrollar aplicaciones mobiles 
 
-1-como primer paso tenemos que descargar intellj o Android studio según los requisitos que contemos en nuestra computadora les compartiré el link a intellj 
+1. como primer paso tenemos que descargar intellj o Android studio según los requisitos que contemos en nuestra computadora les compartiré el link a intellj 
 https://drive.google.com/file/d/1MMssbBgpsk9BkexRjTflCLJVo6GAXD66/view?usp=drivesdk
 
 
 
   2. Descarga el plugin
 
-  Los plugins para IntelliJ usualmente tienen la extensión .zip   o .jar.
+  Los plugins para IntelliJ usualmente tienen la   extensión .zip   o .jar.
 
 Puedes obtenerlo desde este link que estaré dejando o bien descargarlo en la tienda 
 https://drive.google.com/file/d/1MDUkvLDKbnu1LQswjLcs92YUCEaIBjqn/view?usp=drivesdk
@@ -35,3 +35,4 @@ https://drive.google.com/file/d/1MDUkvLDKbnu1LQswjLcs92YUCEaIBjqn/view?usp=drive
 
 
 7. Haz clic en OK o Install.
+#como pasos adicionales o de preferencia 
