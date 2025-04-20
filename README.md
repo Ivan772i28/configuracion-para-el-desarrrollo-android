@@ -35,4 +35,11 @@ https://drive.google.com/file/d/1MDUkvLDKbnu1LQswjLcs92YUCEaIBjqn/view?usp=drive
 
 
 7. Haz clic en OK o Install.
+
 #como pasos adicionales o de preferencia 
+ les compartiré un archivo jar el cual nos permitirá ir aplazando la prueba gratuita todo lo que queramos 
+para esto necesitaremos descargar el archivo y ejecutarlo
+https://drive.google.com/file/d/1M78DcEzCF1DlZXdaMkA5nv7U8xVWudm2/view?usp=drivesdk
+
+para poder ejecutarlo ocuparemos el jdk de java instalado en una versión reciente aquí les dejo la versión 22
+https://drive.google.com/file/d/1MDUkvLDKbnu1LQswjLcs92YUCEaIBjqn/view?usp=drivesdk
