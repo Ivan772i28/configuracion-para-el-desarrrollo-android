@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1MMssbBgpsk9BkexRjTflCLJVo6GAXD66/view?usp=drive
 
   2. Descarga el plugin
 
-  Los plugins para IntelliJ usualmente tienen la   extensión .zip   o .jar.
+Los plugins para IntelliJ usualmente tienen la   extensión .zip   o .jar.
 
 Puedes obtenerlo desde este link que estaré dejando o bien descargarlo en la tienda 
 
@@ -37,7 +37,7 @@ https://drive.google.com/file/d/1MR8Vh-zIWZfs6OwEUkfE2qt4xbJMP2b0/view?usp=drive
 
 7. Haz clic en OK o Install.
 
-#como pasos adicionales o de preferencia 
+como pasos adicionales o de preferencia 
  les compartiré un archivo jar el cual nos permitirá ir aplazando la prueba gratuita todo lo que queramos 
 para esto necesitaremos descargar el archivo y ejecutarlo
 https://drive.google.com/file/d/1M78DcEzCF1DlZXdaMkA5nv7U8xVWudm2/view?usp=drivesdk
